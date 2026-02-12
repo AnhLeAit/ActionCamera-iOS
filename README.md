@@ -84,6 +84,7 @@ ActionCamera/
 - Proper dependency injection instead of creating services inline
 - Localization support
 - Haptic feedback on record start/stop
+- Unit tests and UI tests — this is a small, simple sample project so test coverage can be added with more time
 - And more...
 
 ## App Icon
