@@ -2,6 +2,12 @@
 
 This is a simple iOS app that captures short video clips (up to 10 seconds), applies a customizable text overlay with animation, and saves the result to the photo library.
 
+## Demo
+
+| App Demo | Exported Video with Overlay |
+| :---: | :---: |
+| [Demo-ActionCamera.mp4](Demo/Demo-ActionCamera.mp4) | [overlay.MOV](Demo/overlay_85CF669E-BE8A-4CFB-9135-AC5AC1B0F594.MOV) |
+
 ## Architecture
 
 **MVVM** with SwiftUI, Combine, and Swift 6 strict concurrency:
